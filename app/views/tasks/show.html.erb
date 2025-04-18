@@ -1,0 +1,22 @@
+<p id="notice"><%= notice %></p>
+<%= link_to 'Back', @task.project, class: 'btn btn-light mb-3' %>
+<p>
+  <b>Name:</b>
+  <%= @task.name %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= @task.description %>
+</p>
+
+<p>
+  <b>Status:</b>
+  <%= @task.status %>
+</p>
+
+<p>
+  <b>Project:</b>
+  <%= @task.project %>
+</p>
+<%= link_to 'Edit', edit_project_task_path(@task.project, @task), class: "btn btn-success" %> 

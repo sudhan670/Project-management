@@ -1,0 +1,23 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    background: conic-gradient(
+      from 45deg,
+      #2F3C7E 0% 25%,
+      #FBEAEB 25% 50%,
+      #2F3C7E 50% 75%,
+      #FBEAEB 75% 100%
+    );
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .thead-info{
+    background-color:#2F3C7E;
+  }
+  .tbody{
+    background-color:white;
+  }

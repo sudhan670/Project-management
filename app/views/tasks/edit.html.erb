@@ -1,0 +1,7 @@
+<%= link_to 'Back', project_path(@task.project), class: 'btn btn-dark m-1' %>
+<h3>Editing task</h3>
+
+<%= render 'form' %>
+
+<%= link_to 'Show', [@task.project, @task], class: 'btn btn-primary' %> 
+
