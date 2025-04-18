@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Output
+* <img src="https://github.com/sudhan670/Project-management/blob/main/Screenshot%202025-04-18%20170616.png" alt=""/>
+*<img src="https://github.com/sudhan670/Project-management/blob/main/Screenshot%202025-04-18%20170641.png"/>
